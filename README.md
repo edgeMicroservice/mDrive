@@ -17,7 +17,7 @@ visit: https://app.swaggerhub.com/apis/mimik/mDrive/1.3.5
 
 ---
 
-1. Download the latest release here: [mItem releases](https://github.com/edgeMicroservice/mDrive/releases)
+1. Download the latest release here: [mDrive releases](https://github.com/edgeMicroservice/mDrive/releases)
 2. Use mimik-edge-cli to deploy the microservice
 
 ```

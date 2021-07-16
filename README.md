@@ -37,10 +37,10 @@ size:     97587
 status:   successfully deployed
 ```
 
-4. Navigate to where 'start-mItem.json' is located and run command:
+4. Navigate to where 'start-mDrive.json' is located and run command:
 
 ```
-mimik-edge-cli container deploy --payload start-mItem.json --token={EDGE_ACCESS_TOKEN}
+mimik-edge-cli container deploy --payload start-mDrive.json --token={EDGE_ACCESS_TOKEN}
 ```
 
 5. After successful container initialization you will get output similar to below:

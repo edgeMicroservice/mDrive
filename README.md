@@ -3,7 +3,7 @@ Provides access to local files on the device. Allows the user to add, edit, and 
 
 # API Definition:
 
-visit: https://app.swaggerhub.com/apis/mimik/mDrive/1.3.5
+https://github.com/edgeMicroservice/mDrive/releases/download/1.0.0/mDrive-1-4-3-swagger.yml
 
 # Prerequisite
 
